@@ -18,7 +18,7 @@ function cleanText(text) {
 
 
 // API SETUP
-// AIzaSyBgwZMEHOsE1h-RIs85gBbNfdtuD-KWZZ8
+
 
 const api_key = import.meta.env.VITE_API_URL;
 // console.log(api_key)
