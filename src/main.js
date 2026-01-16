@@ -20,7 +20,7 @@ function cleanText(text) {
 // API SETUP
 
 
-const api_key = import.meta.env.VITE_API_URL;
+const api_key = import.meta.env.VITE_API_KEY;
 // console.log(api_key)
 const api_url =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";
